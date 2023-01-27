@@ -1,0 +1,3 @@
+D:/DemoSetup/PNTrianglesQuads/CMakeFiles/PNTrianglesQuads.dir
+D:/DemoSetup/PNTrianglesQuads/CMakeFiles/ALL_BUILD.dir
+D:/DemoSetup/PNTrianglesQuads/CMakeFiles/ZERO_CHECK.dir
